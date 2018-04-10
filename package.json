@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mark-war/resume/issues"
   },
-  "homepage": "https://github.com/mark-war/resume#readme"
+  "homepage": "https://github.com/mark-war/resume#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
 }
